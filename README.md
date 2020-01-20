@@ -1,6 +1,5 @@
 # Sonic-Game
-
-It's Computer Graphics Project using glad and glfw. Sonic Can move left, right and Jump to avoid Obstacles.
+It's a Computer Graphics Project using C/C++, OpenGL, glad and glfw. Sonic Can move left, right and Jump to avoid Obstacles.
 
 ### Team Members
 
